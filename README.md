@@ -1,1 +1,1 @@
-# odds-or-events
+# The game is played between two players, in your version it will be you versus the computer. Each player will choose either "odds" or "evens", since you’re playing the computer you will get first pick. Once you have chosen your side, you each choose a number of fingers to play- 0 to 5. The winner is determined by whether the sum of your fingers is odd or even (depending on what you chose)
